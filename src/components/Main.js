@@ -10,6 +10,10 @@ function Main() {
         <div className="row">1</div>
         <div className="row">2</div>
       </div>
+      <div class="row">
+        <div class="col-3">...</div>
+        <div class="col-9">...</div>
+      </div>
     </div>
   );
 }
