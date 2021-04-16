@@ -12,18 +12,21 @@ code {
     monospace;
 }
 
-.container {
+.headerContainer {
   align-items: center;
   display: flex;
+  height: 150px;
 }
 
 .menu {
   width: 25%;
   float: left;
-  padding: 15px;
+  padding: 15px 0;
   border: 1px solid red;
 }
 .main {
   width: 75%;
   float: left;
+  padding: 25px 0;
+  border: 1px solid red;
 }
